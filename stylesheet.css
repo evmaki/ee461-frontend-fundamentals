@@ -12,7 +12,7 @@ h1 {
 /* selects all elements of the wrapper class */
 .wrapper {
     /* there are some built in colors like lightgray, 
-        or you can use hex codes like #fffffff */
+        or you can use hex codes like #ffffff */
     background: lightgray;
 
     /* margin is the external spacing between this element and others */
